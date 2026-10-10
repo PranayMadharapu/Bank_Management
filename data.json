@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Pranay Madharapu",
+        "age": 20,
+        "email": "pranay@gmail.com",
+        "pin": 2006,
+        "accountNo.": "I8$6h8G",
+        "balance": 30000
+    },
+    {
+        "name": "Pranay Madharapu",
+        "age": 20,
+        "email": "pranay@gmail.com",
+        "pin": 2006,
+        "accountNo.": "5lp3*5z",
+        "balance": 0
+    },
+    {
+        "name": "Virat Kohli",
+        "age": 40,
+        "email": "virat@gmail.com",
+        "pin": 2000,
+        "accountNo.": "!S358Zt",
+        "balance": 1000.0
+    },
+    {
+        "name": "Rohit Sharma",
+        "age": 40,
+        "email": "rohit@gmail.com",
+        "pin": 2000,
+        "accountNo.": "d#1m70C",
+        "balance": 0
+    }
+]
